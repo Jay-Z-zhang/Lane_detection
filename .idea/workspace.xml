@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="38b844ca-8d48-435b-aa7f-9507f01fd9f9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lane_detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/lane_detection.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lane_detection.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+            <state relative-caret-position="209">
+              <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
               <folding>
                 <element signature="e#25#55#0" expanded="true" />
                 <marker date="1555240271125" expanded="true" signature="1275:1317" ph="..." />
@@ -89,6 +88,11 @@
             <path>
               <item name="Lane_detection" type="b2602c69:ProjectViewProjectNode" />
               <item name="Lane_detection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lane_detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lane_detection" type="462c0819:PsiDirectoryNode" />
+              <item name="master" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -180,7 +184,7 @@
       <option name="presentableId" value="Default" />
       <updated>1555175055849</updated>
       <workItem from="1555175057216" duration="3621000" />
-      <workItem from="1555239152405" duration="1468000" />
+      <workItem from="1555239152405" duration="1669000" />
     </task>
     <task id="LOCAL-00001" summary="开始使用git和GitHub，这次是把原来的文件存在GitHub上进行。">
       <created>1555175721143</created>
@@ -189,22 +193,29 @@
       <option name="project" value="LOCAL" />
       <updated>1555175721143</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="把github中的文件导入，测试视频流的检测">
+      <created>1555242406157</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1555242406157</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5089000" />
+    <option name="totallyTimeSpent" value="5290000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="697" height="735" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27629513" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13313162" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33943427" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33442622" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -219,7 +230,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" x="0" y="0" width="124" height="535" id="Documentation" order="4" side_tool="true" visible="true" weight="0.3343799" />
+      <window_info anchor="right" x="0" y="0" width="124" height="535" id="Documentation" order="4" side_tool="true" visible="true" weight="0.16111952" />
       <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
@@ -228,7 +239,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="开始使用git和GitHub，这次是把原来的文件存在GitHub上进行。" />
-    <option name="LAST_COMMIT_MESSAGE" value="开始使用git和GitHub，这次是把原来的文件存在GitHub上进行。" />
+    <MESSAGE value="把github中的文件导入，测试视频流的检测" />
+    <option name="LAST_COMMIT_MESSAGE" value="把github中的文件导入，测试视频流的检测" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Lane_detection$lane_detection.coverage" NAME="lane_detection Coverage Results" MODIFIED="1555240273580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -236,8 +248,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lane_detection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        <state relative-caret-position="209">
+          <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
           <folding>
             <element signature="e#25#55#0" expanded="true" />
             <marker date="1555240271125" expanded="true" signature="1275:1317" ph="..." />
