@@ -217,7 +217,7 @@ def least_squares_fit(point_list, ymin, ymax):
     return [(xmin, ymin), (xmax, ymax)]
 
 if __name__ == "__main__":
-    img = cv2.imread('way4.jpg')
+    img = cv2.imread('way2.jpg')
     img = cv2.resize(img, (960, 540), 0, 0, cv2.INTER_LINEAR)
     information(img)
     result = process_an_image(img)
